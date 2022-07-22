@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Edu VIC WA NT Beginner';
+    src: url('../fonts/EduVICWANTBeginner-Regular.eot');
+    src: url('../fonts/EduVICWANTBeginner-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/EduVICWANTBeginner-Regular.woff2') format('woff2'),
+        url('../fonts/EduVICWANTBeginner-Regular.woff') format('woff'),
+        url('../fonts/EduVICWANTBeginner-Regular.ttf') format('truetype'),
+        url('../fonts/EduVICWANTBeginner-Regular.svg#EduVICWANTBeginner-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
